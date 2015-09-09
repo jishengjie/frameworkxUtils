@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudioProjects\frameworkxUtils\app\libs\core-xutils.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="178e0aa05871aba4acd8f2399f4e4d7c8d7aef9a">
+        <dex dex="E:\AndroidStudioProjects\frameworkxUtils\app\build\intermediates\pre-dexed\debug\core-xutils-21d6850118ca089c6b92dd5b576f1d45c4eaa069.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\AndroidStudioProjects\frameworkxUtils\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\frameworkxUtils\app\libs\fastjson-1.1.23.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef04ec620624a71d05372f1335e4264577def71e">
+        <dex dex="E:\AndroidStudioProjects\frameworkxUtils\app\build\intermediates\pre-dexed\debug\fastjson-1.1.23-4e1c9ab371a12fad4d286c75bf6de7c3bc1e06a8.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\frameworkxUtils\app\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="E:\AndroidStudioProjects\frameworkxUtils\app\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder-c1b905cb314ecec4cbc2e9659cb468b3a83938c1.jar" />
+    </item>
+
+</items>
